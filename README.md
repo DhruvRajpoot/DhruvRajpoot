@@ -1,42 +1,62 @@
-<div>
-    <h1>Hi there, I'm Dhruv Rajpoot 👋</h1>
-    <h2>About Me</h2><ul>
-    <li>A passionate Full Stack Developer.</li>
-    <li>Final year student pursuing Information Technology at IIIT Bhopal.</li>
-    <li>Feel free to reach me : 
-      <ul>
-        <li><a href="mailto:dhruvrajpootiiitbhopal@gmail.com">Email</a></li>
-        <li><a href="https://www.linkedin.com/in/dhruv-rajpoot/">LinkedIn</a></li>
-      </ul>
-    </li>
+<h1 align="center">Hi there 👋, I'm Dhruv Rajpoot</h1>
+
+<h2 align="left">About Me</h2>
+<ul>
+  <li>A proactive Full Stack Developer who excels in building user-friendly and responsive applications.</li>
+  <li>Final year student at IIIT Bhopal.</li>
+  <li>Feel free to reach me: <a href="mailto:dhruvrajpootiiitbhopal@gmail.com">dhruvrajpootiiitbhopal@gmail.com</a></li>
 </ul>
-    <h2>Experience</h2>
-   <h3>Software Developer Intern at Redmango Tech Solutions LLP</h3>
-    <p><strong>06/2023 – Present</strong></p>
-    <h3>Fullstack Developer Intern at HealMeRight</h3>
-    <p><strong>07/2023 – 10/2023</strong></p>
-   <h3>Frontend Developer Intern at Tapop</h3>
-    <p><strong>05/2023 – 10/2023</strong></p>
-   <h3>Web Developer Intern at ParadoxAlpha Foundation</h3>
-    <p><strong>01/2023 – 04/2023</strong></p>
-    <h2>Skills and Technologies</h2>
-  <ul>
-    <li>C</li>
-    <li>C++</li>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>Bootstrap</li>
-    <li>Tailwind CSS</li>
-    <li>Material UI</li>
-    <li>Styled Components</li>
-    <li>SCSS</li>
-    <li>JavaScript</li>
-    <li>TypeScript</li>
-    <li>React.js</li>
-    <li>Node.js</li>
-    <li>Express.js</li>
-    <li>MongoDB</li>
-    <li>GitHub</li>
-    <li>Netlify</li>
+
+</br>
+
+<h2>Experience</h2>
+<ul>
+<li><h4>Software Developer Intern at Redmango Tech Solutions LLP &nbsp; <strong>(06/2023 – Present)</strong> </h4></li>
+<li><h4>Fullstack Developer Intern at HealMeRight &nbsp; <strong>(07/2023 – 10/2023)</strong> </h4></li>
+<li><h4>Frontend Developer Intern at Tapop &nbsp; <strong>(05/2023 – 10/2023)</strong></h4></li>
+<li><h4>Web Developer Intern at ParadoxAlpha Foundation &nbsp; <strong>(01/2023 – 04/2023)</strong></h4></li>
 </ul>
+
+</br>
+
+<h2 align="left">Social Profiles:</h2>
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvrajpootiiitbhopal@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-rajpoot)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/dhruv_raj10)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/dhruvraj10)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/dhruvraj10)
+[![Coding Ninjas](https://img.shields.io/badge/Coding_Ninjas-1A73E8?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/d1ee6c4d-36ab-4c1b-9f70-5f508d1ac201)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/dhruvraj10/profile)
+
+</div>
+
+</br>
+
+<h2 align="left">Languages and Tools:</h2>
+<div align="center">
+    
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![JSON Web Token](https://img.shields.io/badge/JSON_Web_Token-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 </div>
