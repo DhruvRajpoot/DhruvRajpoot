@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Dhruv Rajpoot</h1>
 
-<h2 align="left">About Me</h2>
+<h2>About Me </h2>
 <ul>
   <li>A proactive Full Stack Developer who excels in building user-friendly and responsive applications.</li>
   <li>Final year student at IIIT Bhopal.</li>
@@ -10,6 +10,7 @@
 </br>
 
 <h2>Experience</h2>
+
 <ul>
 <li><h4>Software Developer Intern at Redmango Tech Solutions LLP &nbsp; <strong>(06/2023 – Present)</strong> </h4></li>
 <li><h4>Fullstack Developer Intern at HealMeRight &nbsp; <strong>(07/2023 – 10/2023)</strong> </h4></li>
@@ -19,7 +20,7 @@
 
 </br>
 
-<h2 align="left">Social Profiles:</h2>
+<h2>Social Profiles</h2>
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvrajpootiiitbhopal@gmail.com)
@@ -34,7 +35,7 @@
 
 </br>
 
-<h2 align="left">Languages and Tools:</h2>
+<h2>Languages and Tools</h2>
 <div align="center">
     
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -60,3 +61,20 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
+
+<h2>GitHub Activities</h2>
+
+<table>
+  <tr>
+    <td  width="50%">
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=dhruvrajpoot&theme=vue-dark&hide_border=true" alt="GitHub Streak">
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvrajpoot&theme=vue&height=470&hide_border=true&hide_title=true&radius=10&days=25" alt="Dhruv's github activity graph" >
+      </a>
+    </td>
+  </tr>
+</table>
