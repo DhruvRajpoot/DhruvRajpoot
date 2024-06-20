@@ -68,7 +68,7 @@
   <tr>
     <td  width="50%">
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=dhruvrajpoot&theme=vue-dark&hide_border=true" alt="GitHub Streak">
+        <img src="https://streak-stats.demolab.com/?user=dhruvrajpoot&theme=vue-dark&hide_border=true&starting_year=2023" alt="GitHub Streak">
       </a>
     </td>
     <td width="50%">
@@ -80,5 +80,5 @@
 </table>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvrajpoot&theme=nord" alt="Dhruv's     github profile trophy" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvrajpoot&theme=nord" alt="Dhruv's github profile trophy" /></a>
 </p>
