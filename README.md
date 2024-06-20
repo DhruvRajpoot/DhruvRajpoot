@@ -1,15 +1,15 @@
-<h1 align="center">Hi there 👋, I'm Dhruv Rajpoot</h1>
+<h1 align="center">Hey there, I'm Dhruv Rajpoot <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlxMHU0bTNjY21nZzZtN3B6d2xxcjhhbnNjeGxpc2V1b3F3OTlldCZlcD12MV9naWZzX3NlYXJjaCZjdD1z/5HyXGsoFzXWPKFx07j/giphy.gif" width="50px"></h1>
 
-<h2>About Me </h2>
+<h2>About Me <img src="https://media.giphy.com/media/grlUCZKfw4TK0/giphy.gif" width="30px"> </h2>
 <ul>
-  <li>A proactive Full Stack Developer who excels in building user-friendly and responsive applications.</li>
+  <li>I am a proactive Full Stack Developer who excels in building user-friendly and responsive websites.</li>
   <li>Final year student at IIIT Bhopal.</li>
   <li>Feel free to reach me: <a href="mailto:dhruvrajpootiiitbhopal@gmail.com">dhruvrajpootiiitbhopal@gmail.com</a></li>
 </ul>
 
 </br>
 
-<h2>Experience</h2>
+<h2>Experience <img src="https://media.giphy.com/media/3s2O1gbk6JNRK/giphy.gif" width="30px"></h2>
 
 <ul>
 <li><h4>Software Developer Intern at Redmango Tech Solutions LLP &nbsp; <strong>(06/2023 – Present)</strong> </h4></li>
@@ -20,7 +20,7 @@
 
 </br>
 
-<h2>Social Profiles</h2>
+<h2>Social Profiles <img src="https://media.giphy.com/media/LHTYbmSwbh9Oo/giphy.gif" width="30px"/></h2>
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvrajpootiiitbhopal@gmail.com)
@@ -35,7 +35,7 @@
 
 </br>
 
-<h2>Languages and Tools</h2>
+<h2>Languages and Tools <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/></h2>
 <div align="center">
     
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -62,7 +62,7 @@
 
 </div>
 
-<h2>GitHub Activities</h2>
+<h2>Activities and Trophies <img src="https://media.giphy.com/media/1RRCPqFZAsZFjJfD0R/giphy.gif" width="25px"/></h2>
 
 <table>
   <tr>
@@ -78,3 +78,7 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvrajpoot&theme=nord" alt="Dhruv's     github profile trophy" /></a>
+</p>
