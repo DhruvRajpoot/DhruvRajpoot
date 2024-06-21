@@ -1,22 +1,18 @@
-<h1 align="center">Hey there, I'm Dhruv Rajpoot <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlxMHU0bTNjY21nZzZtN3B6d2xxcjhhbnNjeGxpc2V1b3F3OTlldCZlcD12MV9naWZzX3NlYXJjaCZjdD1z/5HyXGsoFzXWPKFx07j/giphy.gif" width="50px"></h1>
+<h1 align="center">🅷🅴🆈 🆃🅷🅴🆁🅴, 🅸'🅼 🅳🅷🆁🆄🆅 🆁🅰🅹🅿🅾🅾🆃 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlxMHU0bTNjY21nZzZtN3B6d2xxcjhhbnNjeGxpc2V1b3F3OTlldCZlcD12MV9naWZzX3NlYXJjaCZjdD1z/5HyXGsoFzXWPKFx07j/giphy.gif" width="50px"></h1>
 
 <h2>About Me <img src="https://media.giphy.com/media/grlUCZKfw4TK0/giphy.gif" width="30px"> </h2>
-<ul>
-  <li>I am a proactive Full Stack Developer who excels in building user-friendly and responsive websites.</li>
-  <li>Final year student at IIIT Bhopal.</li>
-  <li>Feel free to reach me: <a href="mailto:dhruvrajpootiiitbhopal@gmail.com">dhruvrajpootiiitbhopal@gmail.com</a></li>
-</ul>
+  <p>👨‍💻 I'm a proactive Software Developer who excels in building user-friendly and responsive applications.</p>
+  <p>👨‍💼 Final year student at IIIT Bhopal.</p>
+  <p>🤳 Feel free to reach me: <a href="mailto:dhruvrajpootiiitbhopal@gmail.com">dhruvrajpootiiitbhopal@gmail.com</a></p>
 
 </br>
 
 <h2>Experience <img src="https://media.giphy.com/media/3s2O1gbk6JNRK/giphy.gif" width="30px"></h2>
 
-<ul>
-<li><h4>Software Developer Intern at Redmango Tech Solutions LLP &nbsp; <strong>(06/2023 – Present)</strong> </h4></li>
-<li><h4>Fullstack Developer Intern at HealMeRight &nbsp; <strong>(07/2023 – 10/2023)</strong> </h4></li>
-<li><h4>Frontend Developer Intern at Tapop &nbsp; <strong>(05/2023 – 10/2023)</strong></h4></li>
-<li><h4>Web Developer Intern at ParadoxAlpha Foundation &nbsp; <strong>(01/2023 – 04/2023)</strong></h4></li>
-</ul>
+<h4>➡️ Software Developer Intern at Redmango Tech Solutions LLP &nbsp; <strong>(06/2023 – Present)</strong> </h4>
+<h4>➡️ Fullstack Developer Intern at HealMeRight &nbsp; <strong>(07/2023 – 10/2023)</strong> </h4>
+<h4>➡️ Frontend Developer Intern at Tapop &nbsp; <strong>(05/2023 – 10/2023)</strong></h4>
+<h4>➡️ Web Developer Intern at ParadoxAlpha Foundation &nbsp; <strong>(01/2023 – 04/2023)</strong></h4>
 
 </br>
 
