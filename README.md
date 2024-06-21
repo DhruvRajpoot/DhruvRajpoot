@@ -8,7 +8,7 @@
   <p>👨‍💻 I'm a proactive Software Developer who excels in building user-friendly and responsive applications.</p>
   <p>🎓 Final year student at IIIT Bhopal.</p>
   <p>🤳 Feel free to reach me: <a href="mailto:dhruvrajpootiiitbhopal@gmail.com">dhruvrajpootiiitbhopal@gmail.com</a></p>
-  <p> <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=dhruvrajpoot"/></a> </p>
+  <p>🫵 <a href="https://github.com/antonkomarev/github-profile-views-counter" alt="profile views" vertically><img src="https://komarev.com/ghpvc/?username=dhruvrajpoot"/></a> </p>
 </div>
 </br>
 
