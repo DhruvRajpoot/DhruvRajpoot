@@ -2,10 +2,10 @@
 
 <h2>About Me <img src="https://media.giphy.com/media/grlUCZKfw4TK0/giphy.gif" width="30px"> </h2>
 
-<img align="right" alt="coding" width="200" src="https://media1.tenor.com/m/GythNLlEJtYAAAAC/code-encoding.gif" >
+<img align="right" alt="coding" width="220" src="https://media1.tenor.com/m/GythNLlEJtYAAAAC/code-encoding.gif" >
 
 <div align="left" width="20%">
-  <p>👨‍💻 I'm a proactive Software Developer who excels in building user-friendly and responsive applications.</p>
+  <p>👨‍💻 A Software Developer who excels in building user-friendly applications.</p>
   <p>🎓 Final year student at IIIT Bhopal.</p>
   <p>🤳 Feel free to reach me: <a href="mailto:dhruvrajpootiiitbhopal@gmail.com">dhruvrajpootiiitbhopal@gmail.com</a></p>
   <p>🫵 <a href="https://github.com/antonkomarev/github-profile-views-counter" alt="profile views" vertically><img src="https://komarev.com/ghpvc/?username=dhruvrajpoot"/></a> </p>
