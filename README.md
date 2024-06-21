@@ -1,10 +1,15 @@
 <h1 align="center">🅷🅴🆈 🆃🅷🅴🆁🅴, 🅸'🅼 🅳🅷🆁🆄🆅 🆁🅰🅹🅿🅾🅾🆃 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlxMHU0bTNjY21nZzZtN3B6d2xxcjhhbnNjeGxpc2V1b3F3OTlldCZlcD12MV9naWZzX3NlYXJjaCZjdD1z/5HyXGsoFzXWPKFx07j/giphy.gif" width="50px"></h1>
 
 <h2>About Me <img src="https://media.giphy.com/media/grlUCZKfw4TK0/giphy.gif" width="30px"> </h2>
-  <p>👨‍💻 I'm a proactive Software Developer who excels in building user-friendly and responsive applications.</p>
-  <p>👨‍💼 Final year student at IIIT Bhopal.</p>
-  <p>🤳 Feel free to reach me: <a href="mailto:dhruvrajpootiiitbhopal@gmail.com">dhruvrajpootiiitbhopal@gmail.com</a></p>
 
+<img align="right" alt="coding" width="220" src="https://media1.tenor.com/m/GythNLlEJtYAAAAC/code-encoding.gif" >
+
+<div align="left" width="20%">
+  <p>👨‍💻 I'm a proactive Software Developer who excels in building user-friendly and responsive applications.</p>
+  <p>🎓 Final year student at IIIT Bhopal.</p>
+  <p>🤳 Feel free to reach me: <a href="mailto:dhruvrajpootiiitbhopal@gmail.com">dhruvrajpootiiitbhopal@gmail.com</a></p>
+  <p> <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=dhruvrajpoot"/></a> </p>
+</div>
 </br>
 
 <h2>Experience <img src="https://media.giphy.com/media/3s2O1gbk6JNRK/giphy.gif" width="30px"></h2>
