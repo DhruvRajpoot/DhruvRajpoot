@@ -14,10 +14,25 @@
 
 <h2>Experience <img src="https://media.giphy.com/media/3s2O1gbk6JNRK/giphy.gif" width="30px"></h2>
 
-<h4>➡️ Software Developer Intern at Redmango Tech Solutions LLP &nbsp; <strong>(06/2023 – Present)</strong> </h4>
-<h4>➡️ Fullstack Developer Intern at HealMeRight &nbsp; <strong>(07/2023 – 10/2023)</strong> </h4>
-<h4>➡️ Frontend Developer Intern at Tapop &nbsp; <strong>(05/2023 – 10/2023)</strong></h4>
-<h4>➡️ Web Developer Intern at ParadoxAlpha Foundation &nbsp; <strong>(01/2023 – 04/2023)</strong></h4>
+<strong>➡️ Software Developer Intern at News Muncher (06/2024 – Present)</strong>
+<a href="https://newsmuncher.pages.dev/" target="_blank" style="color: #ffffff; text-decoration: none;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/chain.png" width="15px" style="vertical-align: middle;" />
+</a>
+
+<strong>➡️ Fullstack Developer Intern at HealMeRight (07/2023 – 10/2023)</strong>
+<a href="https://healmeright.com/" target="_blank" style="color: #ffffff; text-decoration: none;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/chain.png" width="15px" style="vertical-align: middle;" />
+</a>
+
+<strong>➡️ Frontend Developer Intern at Tapop (05/2023 – 10/2023)</strong>
+<a href="https://qviq.io/" target="_blank" style="color: #ffffff; text-decoration: none;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/chain.png" width="15px" style="vertical-align: middle;" />
+</a>
+
+<strong>➡️ Web Developer Intern at ParadoxAlpha Foundation (01/2023 – 04/2023)</strong>
+<a href="https://www.linkedin.com/company/paradox-alpha/posts/?feedView=all" target="_blank" style="color: #ffffff; text-decoration: none;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/chain.png" width="15px" style="vertical-align: middle;" />
+</a>
 
 </br>
 
