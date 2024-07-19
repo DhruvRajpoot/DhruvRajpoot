@@ -2,19 +2,22 @@
 
 <h2>About Me <img src="https://media.giphy.com/media/grlUCZKfw4TK0/giphy.gif" width="30px"> </h2>
 
-<img align="right" alt="coding" width="220" src="https://media1.tenor.com/m/GythNLlEJtYAAAAC/code-encoding.gif" >
+<img align="right" alt="coding" width="300" src="https://media1.tenor.com/m/GythNLlEJtYAAAAC/code-encoding.gif" >
 
-<div align="left" width="20%">
-  <p>👨‍💻 A Software Developer who excels in building user-friendly applications.</p>
-  <p>🎓 Final year student at IIIT Bhopal.</p>
-  <p>🤳 Feel free to reach me: <a href="mailto:dhruvrajpootiiitbhopal@gmail.com">dhruvrajpootiiitbhopal@gmail.com</a></p>
-  <p>🫵 <a href="https://github.com/antonkomarev/github-profile-views-counter" alt="profile views" vertically><img src="https://komarev.com/ghpvc/?username=dhruvrajpoot"/></a> </p>
+<div align="left">
+  <p>------------------</p>
+  <p>👨‍💻 A Software Developer who excels in building user-friendly applications</p>
+  <p>🎓 Final year student at IIIT Bhopal</p>
+  <p>🤳 Feel free to reach me at <a href="mailto:dhruvrajpootiiitbhopal@gmail.com">dhruvrajpootiiitbhopal@gmail.com</a></p>
+  <p>📄 View my Resume <a href="https://drive.google.com/file/d/1aPX31W2nOS4FVWAG5g5yzRPqLNhabOxM/view?usp=drive_link" target="_blank">⬇️</a></p>
+  <p>💁 <a href="https://github.com/antonkomarev/github-profile-views-counter" alt="profile views" vertically><img src="https://komarev.com/ghpvc/?username=dhruvrajpoot&label=PROFILE+VIEWS"/></a> </p>
 </div>
+
 </br>
 
 <h2>Experience <img src="https://media.giphy.com/media/3s2O1gbk6JNRK/giphy.gif" width="30px"></h2>
 
-<strong>➡️ Software Developer Intern at News Muncher (06/2024 – Present)</strong>
+<strong>➡️ Software Developer Intern at News Muncher (06/2024 – 07/2024)</strong>
 <a href="https://newsmuncher.pages.dev/" target="_blank" style="color: #ffffff; text-decoration: none;">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/chain.png" width="15px" style="vertical-align: middle;" />
 </a>
@@ -24,7 +27,7 @@
     <img src="https://img.icons8.com/ios-filled/50/ffffff/chain.png" width="15px" style="vertical-align: middle;" />
 </a>
 
-<strong>➡️ Frontend Developer Intern at Tapop (05/2023 – 10/2023)</strong>
+<strong>➡️ Frontend Developer Intern at Qviq (05/2023 – 10/2023)</strong>
 <a href="https://qviq.io/" target="_blank" style="color: #ffffff; text-decoration: none;">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/chain.png" width="15px" style="vertical-align: middle;" />
 </a>
