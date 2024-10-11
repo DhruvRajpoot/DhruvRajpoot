@@ -44,11 +44,12 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvrajpootiiitbhopal@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-rajpoot)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/dhruv_raj10)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/dhruvraj10)
+[![Codolio](https://img.shields.io/badge/Codolio-orange?style=for-the-badge&logoColor=black&labelColor=black)](https://codolio.com/profile/dhruvraj10)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/dhruvraj10)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/dhruvraj10)
-[![Coding Ninjas](https://img.shields.io/badge/Coding_Ninjas-1A73E8?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/d1ee6c4d-36ab-4c1b-9f70-5f508d1ac201)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/dhruvraj10)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/dhruvraj10/profile)
+[![Coding Ninjas](https://img.shields.io/badge/Coding_Ninjas-1A73E8?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/d1ee6c4d-36ab-4c1b-9f70-5f508d1ac201)
 
 </div>
 
