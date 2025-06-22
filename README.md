@@ -17,6 +17,11 @@
 
 <h2>Experience <img src="https://media.giphy.com/media/3s2O1gbk6JNRK/giphy.gif" width="30px"></h2>
 
+<strong>➡️ SDE Intern at HyperVerge (10/2024 – Present)</strong>
+<a href="https://hyperverge.co/" target="_blank" style="color: #ffffff; text-decoration: none;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/chain.png" width="15px" style="vertical-align: middle;" />
+</a>
+
 <strong>➡️ Software Developer Intern at News Muncher (06/2024 – 07/2024)</strong>
 <a href="https://newsmuncher.com/" target="_blank" style="color: #ffffff; text-decoration: none;">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/chain.png" width="15px" style="vertical-align: middle;" />
