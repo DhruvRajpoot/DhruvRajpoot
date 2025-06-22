@@ -15,7 +15,7 @@
 
 </br>
 
-<h2>Experience <img src="https://media.giphy.com/media/3s2O1gbk6JNRK/giphy.gif" width="30px"></h2>
+<h2>Experiences <img src="https://media.giphy.com/media/3s2O1gbk6JNRK/giphy.gif" width="30px"></h2>
 
 <strong>➡️ SDE Intern at HyperVerge (10/2024 – Present)</strong>
 <a href="https://hyperverge.co/" target="_blank" style="color: #ffffff; text-decoration: none;">
