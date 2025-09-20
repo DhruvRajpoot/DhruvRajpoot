@@ -7,37 +7,37 @@
 <div align="left">
   <p>------------------</p>
   <p>👨‍💻 A Software Developer who excels in building user-friendly applications</p>
-  <p>🎓 Final year student at IIIT Bhopal</p>
+  <p>🎓 B.Tech in Information Technology, IIIT Bhopal - 2025</p>
   <p>🤳 Feel free to reach me at <a href="mailto:dhruvrajpootiiitbhopal@gmail.com">dhruvrajpootiiitbhopal@gmail.com</a></p>
   <p>📄 View my Resume <a href="https://drive.google.com/file/d/1aPX31W2nOS4FVWAG5g5yzRPqLNhabOxM/view?usp=drive_link" target="_blank">⬇️</a></p>
   <p>💁 <a href="https://github.com/antonkomarev/github-profile-views-counter" alt="profile views" vertically><img src="https://komarev.com/ghpvc/?username=dhruvrajpoot&label=PROFILE+VIEWS"/></a> </p>
 </div>
 
-</br>
+<br/>
 
 <h2>Experiences <img src="https://media.giphy.com/media/3s2O1gbk6JNRK/giphy.gif" width="30px"></h2>
 
-<strong>➡️ SDE Intern at HyperVerge (10/2024 – Present)</strong>
+<strong>➡️ SDE Intern at HyperVerge (October 2024 – July 2025)</strong>
 <a href="https://hyperverge.co/" target="_blank" style="color: #ffffff; text-decoration: none;">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/chain.png" width="15px" style="vertical-align: middle;" />
 </a>
 
-<strong>➡️ Software Developer Intern at News Muncher (06/2024 – 07/2024)</strong>
+<strong>➡️ Software Developer Intern at News Muncher (June 2024 – July 2024)</strong>
 <a href="https://newsmuncher.com/" target="_blank" style="color: #ffffff; text-decoration: none;">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/chain.png" width="15px" style="vertical-align: middle;" />
 </a>
 
-<strong>➡️ Fullstack Developer Intern at HealMeRight (07/2023 – 10/2023)</strong>
+<strong>➡️ Fullstack Developer Intern at HealMeRight (July 2023 – October 2023)</strong>
 <a href="https://healmeright.com/" target="_blank" style="color: #ffffff; text-decoration: none;">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/chain.png" width="15px" style="vertical-align: middle;" />
 </a>
 
-<strong>➡️ Frontend Developer Intern at Qviq (05/2023 – 10/2023)</strong>
+<strong>➡️ Frontend Developer Intern at Qviq (May 2023 – October 2023)</strong>
 <a href="https://qviq.io/" target="_blank" style="color: #ffffff; text-decoration: none;">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/chain.png" width="15px" style="vertical-align: middle;" />
 </a>
 
-<strong>➡️ Web Developer Intern at ParadoxAlpha Foundation (01/2023 – 04/2023)</strong>
+<strong>➡️ Web Developer Intern at ParadoxAlpha Foundation (January 2023 – April 2023)</strong>
 <a href="https://www.linkedin.com/company/paradox-alpha/posts/?feedView=all" target="_blank" style="color: #ffffff; text-decoration: none;">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/chain.png" width="15px" style="vertical-align: middle;" />
 </a>
@@ -65,25 +65,39 @@
     
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
 
 </div>
 
